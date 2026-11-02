@@ -1,0 +1,11 @@
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+.DS_Store
+
+# Configuration Firebase (clé du projet) : gardée hors du dépôt public.
+android/app/google-services.json

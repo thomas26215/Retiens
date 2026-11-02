@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_today_name">Révisions du jour</string>
+    <string name="widget_today_desc">Les sujets à revoir aujourd\'hui, ta série et un bouton pour ajouter un sujet.</string>
+    <string name="widget_streak_name">Série</string>
+    <string name="widget_streak_desc">Ta série de jours de révision et la progression du jour.</string>
+    <string name="widget_add">Ajouter un sujet</string>
+</resources>
